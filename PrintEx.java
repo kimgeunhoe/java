@@ -9,7 +9,7 @@ public class PrintEx {
 		System.out.println();
 		System.out.println("라인을 넣어서 출력" + 100000);
 		System.out.println(false);
-		
+		System.out.println("수정된 부분);
 		System.out.println(); //syso => ctrl + space: 자동완성
 	}
 
